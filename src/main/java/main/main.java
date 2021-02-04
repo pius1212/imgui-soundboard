@@ -14,7 +14,9 @@ public class main {
 				imGui.initNewFrame();
 				imGui.begin("Soundboard");
 
-				imGui.text("daniel is a faggot");
+				imGui.text("ImGui Soundboard");
+				imGui.text("Sound Clip: ");
+
 
 				imGui.render();
 			}
